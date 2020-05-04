@@ -125,8 +125,8 @@ After analyzing data from the primary and secondary dataset, the results of the 
 <b>Section 3</b><br>
 In this section we have visualizations of certain aspects derived from the secondary dataset.
 The first visualization is a hex bin which gives us a relationship between the Population and Urban population of the dataset.
-The second visulaization gives us a correlation between the total health expenditure which is measured as a percentage of the GDP and with the GDP per capita.The second plot is a scatter plot
-The third visualization is a histogram, it is the amount of Carbon dioxide emissions (million tons/tones per capita).Through the plot we can see that most of the emissions are limited within 20,000.
+The second visulaization gives us a correlation between the total health expenditure which is measured as a percentage of the GDP and with the GDP per capita.The second plot is a scatter plot.
+
 
 <b>Figure3.1</b><br>
 ![](/Figures/8.PNG)
