@@ -19,7 +19,8 @@ This visualization gives us a breakdown of the mean population according to regi
 ![](/Figures/2.PNG)
 
 <b>Section 1</b><br>
-This visualization gives us the correlation between population and GDP. Here we can see that the population and GDP are not strongly correlated. We can zoom into the visualization to view a particular segment more clearly.<br>
+This visualization gives us the correlation between population and GDP. Here we can see that the population and GDP are not strongly correlated. <br>
+We can zoom into the visualization to view a particular segment more clearly.<br>
 ![](/Figures/3.PNG)
 
 <b>Top 10 countries with highest GDP</b> (Primary Dataset) <br>
@@ -58,11 +59,28 @@ In Section 2, we look at our secondary dataset to verify the results obtained fr
 From our primary dataset (Section 1) we got the following results:<br>
 <b>Ten countries with highest GDP :</br><br>
 
-1.Luxembourg 2.Norway 3.United States 4.Bermuda 5.Cayman Islands 6.San Marino 7. Switzerland 8. Denmark 9.Iceland 10.Austria<br>
+1.Luxembourg <br>
+2.Norway <br>
+3.United States<br> 
+4.Bermuda <br>
+5.Cayman Islands<br> 
+6.San Marino <br>
+7.Switzerland <br>
+8.Denmark <br>
+9.Iceland 10.Austria<br>
 
 <b>Ten countries with lowest GDP:</b><br>
 
-1.East Timor 2. Sierra Leone 3. Somalia 4. Burundi 5.Gaza strip 6. Malawi 7.Tanzania 8.Afghanistan 9. Comoros 10.Congo, Dem. Rep<br>
+1.East Timor<br>
+2.Sierra Leone <br>
+3.Somalia <br>
+4.Burundi <br>
+5.Gaza strip <br>
+6.Malawi <br>
+7.Tanzania <br>
+8.Afghanistan <br>
+9.Comoros <br>
+10.Congo, Dem. Rep<br>
 We can see the above results visualizaed as bar charts in section 1.<br>
 
 <b>After analyzing our secondary dataset, we get the following results:</b><br>
