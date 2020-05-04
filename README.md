@@ -1,6 +1,7 @@
 # DV-Proj
 
-Does the population of a country play an important factor in determining it's GDP?
+Does the population of a country play an important factor in determining it's GDP?<br>
+
 Author: Welisa Lewis
 
 The Gross Domestic PRoduct(GDP) of a country is the financial value of all finished goods and services made within the country for a specific preiod of time. It is one factor that is taken into consideration while determining a country's progress. It gives us an idea about the country's economy. In this article we will look at how the population of a country may be an important factor that contributes towards the countries GDP.
