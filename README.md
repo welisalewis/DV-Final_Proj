@@ -12,12 +12,15 @@ Section 3, provides insights about a country which are either related to it's po
 
 <b>GDP per capita distribution on the world map</b></br>
 The visulation below gives us the distribution of GDP around the world. The regions which appear darker have higher GDP's compared to the regions that are lighter in color. Through this map it is easier to identify regions and wghat their overall GDP contribution is in the world.
+![](/Figures/1.PNG)
 
 <b>Mean Population Distribution according to Regions</b><br>
 This visualization gives us a breakdown of the mean population according to regions. Through this we can identify which region has a larger population.Through this we can assume that countries in a particular region may have higher GDP's.
+![](/Figures/2.PNG)
 
 <b>Section 1</b><br>
-This visualization gives us the correlation between population and GDP. Here we can see that the population and GDP are not strongly correlated. We can zoom into the visualization to view a particular segment more clearly.
+This visualization gives us the correlation between population and GDP. Here we can see that the population and GDP are not strongly correlated. We can zoom into the visualization to view a particular segment more clearly.<br>
+![](/Figures/3.PNG)
 
 <b>Top 10 countries with highest GDP</b> (Primary Dataset) <br>
 Now we try to determine the top 10 countries with the highest GDP using our primary dataset.
@@ -32,6 +35,8 @@ The results we obtained for the Top 10 countries are as follows:
 8.Denmark
 9.Iceland
 10.Austria
+We can see the visulaization below<br>
+![](/Figures/4.PNG)
 
 Now we try to determine the 10 countries with the lowest GDP using our primary dataset.<br>
 <b>The results we obtained for the 10 countries are as follows:</b><br>
@@ -45,6 +50,8 @@ Now we try to determine the 10 countries with the lowest GDP using our primary d
 8.Afghanistan
 9.Comoros
 10.Congo, Dem. Rep
+We can see the visulaization below<br>
+![](/Figures/5.PNG)
 
 <b>Section 2</b></br>
 In Section 2, we look at our secondary dataset to verify the results obtained from our primary dataset. <b>
@@ -69,6 +76,7 @@ We can see the above results visualizaed as bar charts in section 1.<br>
 
 From the plots in section 1 and section 2, we can say that the countries with the highest GDP are more or less the same, however the countries with lowest GDP are not consistent. From section 1 we can also determine that population does not play an important role on the GDP of a country
 
+![](/Figures/6.PNG)
 <b>The above visualization represents the Top Ten Countries with strongest GDP according to secondary data:</b><br>
 1.Liechtenstein<br>
 2.Monaco<br>
@@ -81,6 +89,7 @@ From the plots in section 1 and section 2, we can say that the countries with th
 9.Cayman Islands<br>
 10.Ireland<br>
 
+![](/Figures/7.PNG)
 <b>The above visualization represents the ten countries countries with the lowest GDP. They are as follows:</b><br>
 1.American Samona<br>
 2.Bonnaire<br>
@@ -102,9 +111,11 @@ The second visulaization gives us a correlation between the total health expendi
 The third visualization is a histogram, it is the amount of Carbon dioxide emissions (million tons/tones per capita).Through the plot we can see that most of the emissions are limited within 20,000.
 
 <b>Figure3.1</b><br>
+![](/Figures/8.PNG)
 The above visulaization gives us a correlation between the population and urban population of a country. Through the graph we realize that it is not necessary that the urban population is higher in regions where the population is higher. As we determined in the previous sections that GDP and Population are not strongly correlated, we can say that the Urban Population of a country does not have an affect on the country's GDP contribution.
 
 <b>Figure3.2</b><br>
+![](/Figures/10.PNG)
 The above visualization is a graph between the Total health care expenditure of a country and it's GDP. The above is a scatter plot of GDP vs the healthcare expenditure. Healthcare expenditure is one of the most important factors to measure the progress of a country. Through the Graph we can see that countries spend a mojor percentage on healthcare. We expected that countries with lower GDP may spend a lower percentage on their healthercare, but our assumption is wrong according to this dataset.
 
 <b>Conclusion</b></br>
