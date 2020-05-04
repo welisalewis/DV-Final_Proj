@@ -150,5 +150,5 @@ Country Statistics : https://www.kaggle.com/sudalairajkumar/undata-country-profi
 
 References:<br>
 
-https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d
-Github - Dataviz Spring 2020 Class Notebooks
+1. https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d <br>
+1. Github - Dataviz Spring 2020 Class Notebooks
